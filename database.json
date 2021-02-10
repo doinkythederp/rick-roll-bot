@@ -1,0 +1,167 @@
+{
+  "version": {
+    "id": "2.0.0",
+    "changeNotes": "Pretty much rewrote the entire bot. New additions include more flags, more commands, many, many backend upgrades."
+  },
+  "suggestions": {
+    "count": 0,
+    "list": []
+  },
+  "commands": {
+    "ping": {
+      "runs": 0,
+      "fails": 0
+    },
+    "version": {
+      "runs": 0
+    },
+    "reload": {
+      "runs": 0,
+      "fails": 0
+    },
+    "rickroll": {
+      "runs": 0,
+      "silentRuns": 0,
+      "loudRuns": 0,
+      "fails": 0
+    },
+    "stop": {
+      "runs": 0,
+      "silentRuns": 7,
+      "loudRuns": 0,
+      "fails": 0
+    },
+    "help": {
+      "runs": 0,
+      "fails": 0
+    },
+    "eval": {
+      "runs": 0,
+      "fails": 0
+    },
+    "suggest": {
+      "runs": 0,
+      "fails": 0
+    },
+    "support": {
+      "runs": 0,
+      "fails": 0
+    }
+  },
+  "commandList": [
+    {
+      "type": "Utility Commands",
+      "access": "*",
+      "list": [
+        {
+          "name": "help",
+          "usage": "help",
+          "desc": "View this list of commands, and the link to the support server",
+          "cooldown": 2500
+        },
+        {
+          "name": "ping",
+          "usage": "ping [-simple]",
+          "desc": "Bot will return its latency so you can check on it.",
+          "cooldown": 2500
+        },
+        {
+          "name": "version",
+          "usage": "version",
+          "desc": "Shows which version of the bot you're using.",
+          "cooldown": 2500
+        },
+        {
+          "name": "support",
+          "usage": "support",
+          "desc": "Shows the link the the support server.",
+          "cooldown": 2500
+        },
+        {
+          "name": "suggest",
+          "usage": "suggest ({suggestion})",
+          "desc": "Send a message to the bot author - this could be bugs, a feature suggestion, or a small detail I should change.",
+          "cooldown": 100000
+        }
+      ]
+    },
+    {
+      "type": "Rickroll Commands",
+      "access": "*",
+      "list": [
+        {
+          "name": "rickroll",
+          "usage": "rickroll [{@mention}] [-silent]",
+          "desc": "Joins your (or the mentioned member's) Voice Channel & rickrolls everyone.",
+          "cooldown": 10000
+        },
+        {
+          "name": "stop",
+          "usage": "stop [{@mention}] [-silent]",
+          "desc": "The bot leaves the voice channel. Runs automatically after 3m15s.",
+          "cooldown": 5000
+        }
+      ]
+    },
+    {
+      "type": "Owner-Only Commands",
+      "access": "owner",
+      "list": [
+        {
+          "name": "reload",
+          "usage": "reload [{command}, bot]",
+          "desc": "Reloads a command of the bot's.",
+          "cooldown": 2500
+        },
+        {
+          "name": "eval",
+          "usage": "eval ({script})",
+          "desc": "Evaluates javascript.",
+          "cooldown": 0
+        }
+      ]
+    }
+  ],
+  "ownerCommandList": [
+    {
+      "name": "reload",
+      "usage": "reload [{command}, bot]",
+      "desc": "Reloads a command of the bot's."
+    },
+    {
+      "name": "eval",
+      "usage": "eval ({script})",
+      "desc": "Evaluates javascript."
+    }
+  ],
+  "events": {
+    "ready": {
+      "runs": 0
+    },
+    "message": {
+      "runs": 0
+    }
+  },
+  "aliases": [
+    [
+      "h",
+      "help"
+    ],
+    [
+      "r",
+      "rickroll"
+    ],
+    [
+      "s",
+      "stop"
+    ],
+    [
+      "info",
+      "help"
+    ],
+    [
+      "refresh",
+      "reload"
+    ]
+  ]
+}
