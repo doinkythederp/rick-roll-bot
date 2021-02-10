@@ -1,0 +1,308 @@
+{
+  "version": {
+    "id": "2.0.0",
+    "changeNotes": "Pretty much rewrote the entire bot. New additions include more flags, more commands, many, many backend upgrades."
+  },
+  "suggestions": {
+    "count": 7,
+    "list": [
+      {
+        "content": "_ _",
+        "author": {
+          "id": "651155235699687465",
+          "system": false,
+          "locale": null,
+          "flags": 128,
+          "username": "Ghostoblivion",
+          "bot": false,
+          "discriminator": "7789",
+          "avatar": "f28ef136678858669d7da679ecad94ea",
+          "lastMessageChannelID": null,
+          "createdTimestamp": 1575317906070,
+          "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+          "tag": "Ghostoblivion#7789",
+          "avatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp",
+          "displayAvatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp"
+        },
+        "count": 1
+      },
+      {
+        "content": "q3pworkelfmg;lr;msze,krfsd.mx:",
+        "author": {
+          "id": "651155235699687465",
+          "system": false,
+          "locale": null,
+          "flags": 128,
+          "username": "Ghostoblivion",
+          "bot": false,
+          "discriminator": "7789",
+          "avatar": "f28ef136678858669d7da679ecad94ea",
+          "lastMessageChannelID": null,
+          "createdTimestamp": 1575317906070,
+          "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+          "tag": "Ghostoblivion#7789",
+          "avatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp",
+          "displayAvatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp"
+        },
+        "count": 2
+      },
+      {
+        "content": "_ _",
+        "author": {
+          "id": "651155235699687465",
+          "system": false,
+          "locale": null,
+          "flags": 128,
+          "username": "Ghostoblivion",
+          "bot": false,
+          "discriminator": "7789",
+          "avatar": "f28ef136678858669d7da679ecad94ea",
+          "lastMessageChannelID": null,
+          "createdTimestamp": 1575317906070,
+          "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+          "tag": "Ghostoblivion#7789",
+          "avatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp",
+          "displayAvatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp"
+        },
+        "count": 3
+      },
+      {
+        "content": "_ _ _ _ _ _ _ _ _ _ _ _ _ _",
+        "author": {
+          "id": "651155235699687465",
+          "system": false,
+          "locale": null,
+          "flags": 128,
+          "username": "Ghostoblivion",
+          "bot": false,
+          "discriminator": "7789",
+          "avatar": "f28ef136678858669d7da679ecad94ea",
+          "lastMessageChannelID": null,
+          "createdTimestamp": 1575317906070,
+          "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+          "tag": "Ghostoblivion#7789",
+          "avatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp",
+          "displayAvatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp"
+        },
+        "count": 4
+      },
+      {
+        "content": "_ _",
+        "author": {
+          "id": "651155235699687465",
+          "system": false,
+          "locale": null,
+          "flags": 128,
+          "username": "Ghostoblivion",
+          "bot": false,
+          "discriminator": "7789",
+          "avatar": "f28ef136678858669d7da679ecad94ea",
+          "lastMessageChannelID": null,
+          "createdTimestamp": 1575317906070,
+          "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/4.png",
+          "tag": "Ghostoblivion#7789",
+          "avatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp",
+          "displayAvatarURL": "https://cdn.discordapp.com/avatars/651155235699687465/f28ef136678858669d7da679ecad94ea.webp"
+        },
+        "count": 5
+      },
+      {
+        "content": "give me perms to talk in the support server",
+        "author": {
+          "id": "444940086233268244",
+          "system": false,
+          "locale": null,
+          "flags": 128,
+          "username": "Pineapple",
+          "bot": false,
+          "discriminator": "3046",
+          "avatar": "82b5bf430b9dd063d5198e550ae3dcb4",
+          "lastMessageChannelID": null,
+          "createdTimestamp": 1526152383145,
+          "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+          "tag": "Pineapple#3046",
+          "avatarURL": "https://cdn.discordapp.com/avatars/444940086233268244/82b5bf430b9dd063d5198e550ae3dcb4.webp",
+          "displayAvatarURL": "https://cdn.discordapp.com/avatars/444940086233268244/82b5bf430b9dd063d5198e550ae3dcb4.webp"
+        },
+        "count": 6
+      },
+      {
+        "content": "alr then, nvm :L",
+        "author": {
+          "id": "444940086233268244",
+          "system": false,
+          "locale": null,
+          "flags": 128,
+          "username": "Pineapple",
+          "bot": false,
+          "discriminator": "3046",
+          "avatar": "82b5bf430b9dd063d5198e550ae3dcb4",
+          "lastMessageChannelID": null,
+          "createdTimestamp": 1526152383145,
+          "defaultAvatarURL": "https://cdn.discordapp.com/embed/avatars/1.png",
+          "tag": "Pineapple#3046",
+          "avatarURL": "https://cdn.discordapp.com/avatars/444940086233268244/82b5bf430b9dd063d5198e550ae3dcb4.webp",
+          "displayAvatarURL": "https://cdn.discordapp.com/avatars/444940086233268244/82b5bf430b9dd063d5198e550ae3dcb4.webp"
+        },
+        "count": 7
+      }
+    ]
+  },
+  "commands": {
+    "ping": {
+      "runs": 21,
+      "fails": 3
+    },
+    "version": {
+      "runs": 3
+    },
+    "reload": {
+      "runs": 63,
+      "fails": 9
+    },
+    "rickroll": {
+      "runs": 64,
+      "silentRuns": 2,
+      "loudRuns": 27,
+      "fails": 10
+    },
+    "stop": {
+      "runs": 25,
+      "silentRuns": 7,
+      "loudRuns": 8,
+      "fails": 14
+    },
+    "help": {
+      "runs": 28,
+      "fails": 2
+    },
+    "eval": {
+      "runs": 24,
+      "fails": 6
+    },
+    "suggest": {
+      "runs": 18,
+      "fails": 4
+    },
+    "support": {
+      "runs": 4,
+      "fails": 0
+    }
+  },
+  "commandList": [
+    {
+      "type": "Utility Commands",
+      "access": "*",
+      "list": [
+        {
+          "name": "help",
+          "usage": "help",
+          "desc": "View this list of commands, and the link to the support server",
+          "cooldown": 2500
+        },
+        {
+          "name": "ping",
+          "usage": "ping [-simple]",
+          "desc": "Bot will return its latency so you can check on it.",
+          "cooldown": 2500
+        },
+        {
+          "name": "version",
+          "usage": "version",
+          "desc": "Shows which version of the bot you're using.",
+          "cooldown": 2500
+        },
+        {
+          "name": "support",
+          "usage": "support",
+          "desc": "Shows the link the the support server.",
+          "cooldown": 2500
+        },
+        {
+          "name": "suggest",
+          "usage": "suggest ({suggestion})",
+          "desc": "Send a message to the bot author - this could be bugs, a feature suggestion, or a small detail I should change.",
+          "cooldown": 100000
+        }
+      ]
+    },
+    {
+      "type": "Rickroll Commands",
+      "access": "*",
+      "list": [
+        {
+          "name": "rickroll",
+          "usage": "rickroll [{@mention}] [-silent]",
+          "desc": "Joins your (or the mentioned member's) Voice Channel & rickrolls everyone.",
+          "cooldown": 10000
+        },
+        {
+          "name": "stop",
+          "usage": "stop [{@mention}] [-silent]",
+          "desc": "The bot leaves the voice channel. Runs automatically after 3m15s.",
+          "cooldown": 5000
+        }
+      ]
+    },
+    {
+      "type": "Owner-Only Commands",
+      "access": "owner",
+      "list": [
+        {
+          "name": "reload",
+          "usage": "reload [{command}, bot]",
+          "desc": "Reloads a command of the bot's.",
+          "cooldown": 2500
+        },
+        {
+          "name": "eval",
+          "usage": "eval ({script})",
+          "desc": "Evaluates javascript.",
+          "cooldown": 0
+        }
+      ]
+    }
+  ],
+  "ownerCommandList": [
+    {
+      "name": "reload",
+      "usage": "reload [{command}, bot]",
+      "desc": "Reloads a command of the bot's."
+    },
+    {
+      "name": "eval",
+      "usage": "eval ({script})",
+      "desc": "Evaluates javascript."
+    }
+  ],
+  "events": {
+    "ready": {
+      "runs": 0
+    },
+    "message": {
+      "runs": 0
+    }
+  },
+  "aliases": [
+    [
+      "h",
+      "help"
+    ],
+    [
+      "r",
+      "rickroll"
+    ],
+    [
+      "s",
+      "stop"
+    ],
+    [
+      "info",
+      "help"
+    ],
+    [
+      "refresh",
+      "reload"
+    ]
+  ]
+}

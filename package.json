@@ -1,0 +1,20 @@
+{
+  "name": "rick-roll-bot-rewrite",
+  "version": "0.2.0",
+  "description": "A discord bot that will rickroll people when they use the \"rickroll\" command",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sh restart.sh"
+  },
+  "author": "doinkythederp",
+  "license": "ISC"
+}

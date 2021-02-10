@@ -1,0 +1,3 @@
+module.exports = (client) => {
+  // Code goes here. variable client = the discord client
+};

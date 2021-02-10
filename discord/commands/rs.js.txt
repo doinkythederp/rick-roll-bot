@@ -1,0 +1,20 @@
+exports.run = (client, message, [target, ...reasonArray]) => {
+  try {
+  const cooldown = require('../modules/cooldown.js');
+  cooldown(client, thisName, message.author.id, thisCooldown);
+
+  client.database.commands.rs.runs = client.database.commands.rs.runs + 1
+
+  // js go here
+  }catch(err){
+    client.database.commands.rs.fails = client.database.commands.rs.fails + 1
+    client.presets.error(client, err, message, thisName);
+  }
+}
+
+const thisName = 'rs';
+const thisCooldown = 0
+
+exports.cooldown = (client) => {
+  client.modules.cooldowns.set(thisName, thisCooldown);
+}
