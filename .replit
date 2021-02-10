@@ -1,0 +1,2 @@
+run="sh restart.js"
+language="node.js"
