@@ -1,6 +1,6 @@
 {
-  "name": "rick-roll-bot-rewrite",
-  "version": "0.2.0",
+  "name": "rick-roll-bot",
+  "version": "2.1.0",
   "description": "A discord bot that will rickroll people when they use the \"rickroll\" command",
   "main": "index.js",
   "dependencies": {
